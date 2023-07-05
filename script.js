@@ -23,7 +23,7 @@ function ekranaBastir(tvShowList){
             
             <div class = "col col-sm-6 col-md-4 col-lg-3">
                 <div class="card">
-                    <img src= ${item.show.image.medium} class="card-img-top w-100">
+                    <img src= ${item.show.image ? item.show.image.medium : ""} class="card-img-top w-100">
                     <div class="card-body">
                 
                         <h5 class="card-title">${item.show.name}</h5>

@@ -3796,10 +3796,7 @@
              "thetvdb":285664,
              "imdb":null
           },
-          "image":{
-            "medium":"https://static.tvmaze.com/uploads/images/medium_portrait/4/12289.jpg",
-            "original":"https://static.tvmaze.com/uploads/images/original_untouched/4/12289.jpg"
-         },
+          "image": null,
           "summary":"<p>World's Most Extreme takes you to the most jaw-dropping and extreme places anywhere in the world.</p>",
           "updated":1548458269,
           "_links":{
